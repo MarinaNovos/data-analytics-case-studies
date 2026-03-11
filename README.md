@@ -1,100 +1,103 @@
 # Data Analytics Case Studies
 
-A portfolio of data analytics projects implemented in Python.  
-These case studies demonstrate practical experience in exploratory data analysis, statistical testing, product analytics, and business-oriented data insights using real-world datasets.
+A collection of data analytics projects implemented in Python.  
+The repository contains practical case studies covering exploratory data analysis, statistical testing, product analytics, marketing analytics, and business insights based on real-world datasets.
 
 ## Tools
+
 Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy • Jupyter Notebook
 
 ---
 
 ## Projects
 
-### Borrower Reliability Analysis
-Analysis of borrower data to determine whether marital status and number of children influence loan repayment behavior.
+### Project 1 — Data Analysis of a Home Goods Online Store
+Analysis of transaction data from an online home goods store to understand customer behavior and product demand.
 
 Key tasks:
-- data cleaning and preprocessing
-- handling missing values and duplicates
-- analysis of repayment behavior by customer segments
-- identification of factors associated with credit risk
+- customer segmentation
+- analysis of purchase patterns
+- product assortment analysis
+- insights for targeted marketing campaigns
 
 ---
 
-### Real Estate Listings Analysis
-Exploratory analysis of apartment listings in Saint Petersburg and surrounding regions to identify factors affecting housing prices.
+### Project 2 — Market Research for Public Catering in Moscow
+Exploratory analysis of the Moscow food service market to support investment decisions for opening a new venue.
 
 Key tasks:
-- exploratory data analysis
-- identification of price drivers
-- analysis of geographic and property characteristics
-- detection of anomalies and outliers in listings
+- analysis of restaurant types and formats
+- location-based analysis
+- seating capacity and pricing analysis
+- identification of market trends and opportunities
 
 ---
 
-### Hypothesis Prioritization and A/B Test Analysis for an Online Store
-Evaluation of business hypotheses aimed at increasing revenue and analysis of an A/B test conducted on an e-commerce platform.
-
-Key tasks:
-- hypothesis prioritization (ICE/RICE frameworks)
-- cumulative revenue and conversion analysis
-- statistical testing of experiment results
-- business recommendations based on experiment outcomes
-
----
-
-### Scooter Rental Service User Analysis (GoFast)
-Analysis of user and trip data for a scooter rental service to understand user behavior and evaluate business hypotheses.
-
-Key tasks:
-- user segmentation
-- analysis of trip duration and distance
-- comparison of subscription and non-subscription users
-- statistical hypothesis testing
-
----
-
-### Marketing Analytics for Procrastinate Pro+
-Investigation of marketing performance for a consumer application to understand why the company remains unprofitable despite high advertising costs.
-
-Key tasks:
-- analysis of user acquisition channels
-- calculation of CAC, LTV, and ROI
-- retention and cohort analysis
-- identification of inefficient marketing channels
-
----
-
-### Sales Funnel and A/A/B Experiment Analysis for a Food Retail App
-Analysis of event logs to study user behavior in a mobile application and evaluate the effect of a design change using an A/A/B test.
+### Project 3 — Analysis of a Food Sales Startup
+Study of user behavior in a mobile application selling food products, including analysis of the sales funnel and A/A/B testing.
 
 Key tasks:
 - event log analysis
 - sales funnel analysis
-- identification of drop-off stages
+- identification of user drop-off stages
 - statistical analysis of A/A/B experiment results
 
 ---
 
-### Moscow Food Service Market Analysis
-Market research of food service establishments in Moscow to support business planning for opening a new venue.
+### Project 4 — Data Analysis of Internet Store  
+"E-commerce Revenue Optimization"
+
+Prioritization of growth hypotheses and evaluation of A/B testing results aimed at increasing revenue for an online store.
 
 Key tasks:
-- market structure analysis
-- comparison of restaurant types
-- location and capacity analysis
-- insights for business positioning
+- hypothesis prioritization (ICE / RICE frameworks)
+- analysis of cumulative revenue and conversion metrics
+- statistical significance testing
+- decision making based on experiment outcomes
 
 ---
 
-### E-commerce Customer and Assortment Analysis
-Analysis of transaction data from an online home goods store to identify customer profiles and study product assortment.
+### Project 5 — Analysis of the Procrastinate Pro+ App Data
+Marketing analytics project investigating why a consumer application remains unprofitable despite high advertising costs.
 
 Key tasks:
-- customer segmentation
-- transaction pattern analysis
-- product assortment analysis
-- insights for targeted marketing campaigns
+- analysis of user acquisition channels
+- calculation of CAC, LTV, and ROI
+- cohort and retention analysis
+- identification of inefficient marketing channels
+
+---
+
+### Project 6 — Data Analysis of Video Game Sales for the Online Store "Streamlet"
+Analysis of historical video game sales data to identify factors influencing game success across different platforms and regions.
+
+Key tasks:
+- exploratory data analysis of sales datasets
+- analysis of platform popularity trends
+- evaluation of genre and rating influence
+- regional sales comparison
+
+---
+
+### Project 7 — Data Analysis of Scooter Rental Service
+Analysis of user and trip data for a scooter rental service to understand customer behavior and evaluate business hypotheses.
+
+Key tasks:
+- user segmentation
+- analysis of trip duration and distance
+- comparison of subscription vs non-subscription users
+- statistical hypothesis testing
+
+---
+
+### Project 8 — Real Estate Listings Analysis
+Exploratory analysis of apartment listings to identify factors affecting real estate prices.
+
+Key tasks:
+- exploratory data analysis
+- identification of price-driving features
+- geographic analysis of property prices
+- detection of anomalies and outliers
 
 ---
 
@@ -106,6 +109,7 @@ Key tasks:
 - A/B testing
 - funnel analysis
 - cohort analysis
+- marketing analytics
 - customer segmentation
 - business and product analytics
 - data visualization
